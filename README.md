@@ -1,5 +1,5 @@
-42 Madrid School assembler project for x86-64 macOS computers using Intel syntax.  
-Includes the spring update on the subject with appropriate management of the errno value and error messages
+*42 Madrid School assembler project for x86-64 macOS computers using Intel syntax.  
+Includes the spring update on the subject with appropriate management of the errno value and error messages*
 
 ## How to use it
 
