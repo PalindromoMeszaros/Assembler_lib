@@ -20,3 +20,5 @@ char		*ft_strdup(const char *s)
 It includes an easy-to-edit ``main.c`` file to test the functions with a wide amount of predefined cases.
 
 Compile with the library using ``gcc -Wall -Wextra -Werror main.c libasm.a`` and run the executable.
+
+![example\_screenshot](./tester.png)
